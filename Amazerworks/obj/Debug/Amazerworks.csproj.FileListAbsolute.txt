@@ -1,0 +1,5 @@
+C:\Users\yoyo2\Documents\Visual Studio 2008\Projects\Amazerworks\Amazerworks\bin\Amazerworks.dll
+C:\Users\yoyo2\Documents\Visual Studio 2008\Projects\Amazerworks\Amazerworks\bin\Amazerworks.pdb
+C:\Users\yoyo2\Documents\Visual Studio 2008\Projects\Amazerworks\Amazerworks\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yoyo2\Documents\Visual Studio 2008\Projects\Amazerworks\Amazerworks\obj\Debug\Amazerworks.dll
+C:\Users\yoyo2\Documents\Visual Studio 2008\Projects\Amazerworks\Amazerworks\obj\Debug\Amazerworks.pdb

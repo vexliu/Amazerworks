@@ -1,0 +1,26 @@
+﻿
+#head
+{	text-align: center;
+ 	margin:4px auto;
+ 	width:50%}
+#phone 
+{	position:absolute;
+ 	right:8%;
+ 	top:3%;}
+#title
+{	font-size: 16px;
+ 	text-align: center;
+ 	text-shadow:3px 3px 3px #eeeeee;}
+
+.link Img
+{	width:25%}
+
+#main_button
+{	position:absolute;
+	bottom:6%;
+	left:45%;
+	width:10%;
+}
+@media screen (min-width:768px)
+	{	#phone
+	 	{display:none}}
